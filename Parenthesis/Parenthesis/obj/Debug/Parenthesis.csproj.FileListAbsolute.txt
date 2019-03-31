@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ACA_HOMEWORD\Parenthesis\Parenthesis\Parenthesis\bin\Debug\Parenthesis.exe.config
+C:\Users\User\Desktop\ACA_HOMEWORD\Parenthesis\Parenthesis\Parenthesis\bin\Debug\Parenthesis.exe
+C:\Users\User\Desktop\ACA_HOMEWORD\Parenthesis\Parenthesis\Parenthesis\bin\Debug\Parenthesis.pdb
+C:\Users\User\Desktop\ACA_HOMEWORD\Parenthesis\Parenthesis\Parenthesis\obj\Debug\Parenthesis.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ACA_HOMEWORD\Parenthesis\Parenthesis\Parenthesis\obj\Debug\Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ACA_HOMEWORD\Parenthesis\Parenthesis\Parenthesis\obj\Debug\Parenthesis.exe
+C:\Users\User\Desktop\ACA_HOMEWORD\Parenthesis\Parenthesis\Parenthesis\obj\Debug\Parenthesis.pdb
